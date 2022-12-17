@@ -23,8 +23,9 @@ Este proyecto esta hecho en GoogleScript con el api de Telegram y el api de Open
 ##### _Nota: este paso es opcional ya que es usado solo para mostrar errores que ocurren durante pruebas o despues de ellas._
 
 ![Crear un Documento Sheet](/Guide/Paso1.png "Crear un Documento Sheet")
-
+- Crear un Documento Sheet
 ![Guardar el ID del documento sheet y el nombre de la hoja](/Guide/Paso3.png "Guardar datos")
+- Guardar el ID del documento sheet y el nombre de la hoja
 
 ### _- Crear el token en OpenAI_
 
@@ -50,6 +51,8 @@ Este proyecto esta hecho en GoogleScript con el api de Telegram y el api de Open
 - una vez culminado debemos regresar y comprobar una serie de pasos en telegram
 - https://api.telegram.org/bot + tokenTelegram .Esto nos llevara a una ventana en donde todavia no esta listo para recibir.
 - https://api.telegram.org/bot + tokenTelegram/getUpdates esto habilitar recibir informacion.
+![una vez realizado estas acciones se procede a Implementar el proyecto](/Guide/Paso4.png "Implementar Proyecto")
+![una vez realizado estas acciones se procede a Implementar el proyecto](/Guide/Paso5.png "Implementar Proyecto")
 - una vez realizado estas acciones se procede a Implementar el proyecto
 - Luego aceptar los permisos y copiar la url de la aplicacion web
 - Una vez realizado esto se procede a aplicar la ruta https://api.telegram.org/bot + tokenTelegram/setWebhook?url= + "Url de la aplicacion web".
