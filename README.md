@@ -23,5 +23,6 @@ Este proyecto esta hecho en GoogleScript con el api de Telegram y el api de Open
 ##### _Nota: este paso es opcional ya que es usado solo para mostrar errores que ocurren durante pruebas o despues de ellas._
 
 ![Crear un Documento Sheet](/Guide/Paso1.png "Crear un Documento Sheet")
-
+- Crear un Documento Sheet.
 ![Guardar el ID del documento sheet y el nombre de la hoja](/Guide/Paso3.png "Guardar datos")
+- Guardar el ID del documento Sheet y el nombre de la hoja.
