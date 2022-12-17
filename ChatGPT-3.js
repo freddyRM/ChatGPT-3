@@ -10,7 +10,8 @@ var sheetName = "SHEETNAME"; //Replace the "Data" with your data sheet name
 let telegramUrl = "https://api.telegram.org/bot" + token; // url sending message
 var NUM_TOKENS = "MAX-TOKEN";// remember that 1 token ~= 4 chars in English; 100 tokens ~= 75 words. For more information I leave them in the links of interest.
 
-function doGet(e) {
+//this is just a print to the html you can comment it
+function doGet(e) { 
     return HtmlService.createHtmlOutput('Hola');
 }
 
